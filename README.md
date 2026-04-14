@@ -24,3 +24,17 @@ As part of this registered confirmatory report, all materials and data can be fo
 The preregistration of this study can be found at: https://osf.io/te9c3
 
 The data and analysis scripts are available at https://osf.io/rn96f/?view_only=4436a99bf52740ef84a97a4951c414eb
+
+# Links to Roos et al 2025
+
+The datasets generated during and/or analyzed during the current study are available in the OSF repository https://osf.io/swa58/overview?view_only=9730981debb74d4f87277cc98844c833.
+
+# Links to Sato et al 2025
+
+All data, materials and analysis codes related to this study are available on the Open Science Framework (OSF) project page: https://osf.io/avbp5/
+
+# Links to Storme et al 2026
+
+The data and scripts are available on OSF (https://doi.org/10.17605/OSF.IO/TJ46D).
+
+# 
